@@ -1,12 +1,12 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
-  "title": "Eleventy starter",
+  "title": "HackerSpace PESUECC",
   "language": "en",
   "home_page_url": "https://example.com",
   "feed_url": "https://example.com/feed/en.feed.json",
-  "description": "TODO",
+  "description": "A Student-run Developer Community at PES University, Electronic City Campus",
   "author": {
-    "name": "Your name",
+    "name": "Hackerspace PESUECC",
     "url": "https://example.com"
   },
   "items": [{

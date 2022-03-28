@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>Eleventy starter</title>
-	<subtitle>TODO</subtitle>
+	<title>HackerSpace PESUECC</title>
+	<subtitle>Hello, cultured RSS User! Welcome to our home on the internet</subtitle>
 	
 	<link href="https://example.com/11ty-starter/feed/en.feed.xml" rel="self"/>
 	<link href="https://example.com"/>
 	<updated>2022-01-05T00:00:00Z</updated>
 	<id>TODO</id>
 	<author>
-		<name>Your name</name>
-		<email>example@mail.com</email>
+		<name>Hackerspace PESUECC</name>
+		<email>hackerspace.ecc@pes.edu</email>
 	</author>
 	
 	<entry>
