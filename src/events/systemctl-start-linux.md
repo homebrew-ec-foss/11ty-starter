@@ -16,7 +16,7 @@ What does infinite customizability really mean?
 
 `systemctl start linux` is a beginner-oriented, hands-on workshop by Hackerspace PESUECC that aims to answer these questions for you. Join us, as we guide you on your Linux journey. 
 
-**This workshop will be held on the 18th of April, 2022 from 4:00 to 6:00 PM at PESU EC Campus.**
+**This workshop will be held on the 18th of April, 2022 from 4:00 to 6:00 PM at the Seminar Hall, PESU EC Campus.**
 
 <section class="p-index_links_link">
     <a href="https://forms.gle/PFmC8MZAB6uMArUW9" class="c-gradient-link">  Register Now! </a>
