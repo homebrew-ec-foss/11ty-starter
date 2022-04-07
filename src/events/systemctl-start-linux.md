@@ -10,6 +10,8 @@ layout: layouts/event.njk
 ---
 
 
+![](/static/images/systemctl-start-linux/post-preview.png)
+
 Why do those who use Linux swear by it so much?
 What's so special about Linux that enables it to power most of the world's servers?
 What does infinite customizability really mean?
