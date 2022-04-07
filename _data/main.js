@@ -10,7 +10,11 @@ module.exports = {
     posts: 'posts',
     links: [
       {
-        "text": '[SECRET] Homebrew FOSS by Hackerspace PESUECC',
+        "text": '[EVENT] systemctl start linux',
+        "link": '/events/systemctl-start-linux/',
+      },
+      {
+        "text": 'Homebrew FOSS by Hackerspace PESUECC',
         "link": 'https://sharp-wright-d62960.netlify.app/',
       },
       {
