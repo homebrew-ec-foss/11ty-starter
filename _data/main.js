@@ -15,7 +15,7 @@ module.exports = {
       },
       {
         "text": 'Homebrew FOSS by Hackerspace PESUECC',
-        "link": 'https://sharp-wright-d62960.netlify.app/',
+        "link": 'https://homebrew.hsp-ec.xyz',
       },
       {
         "text": 'HackerSpace Discord',
