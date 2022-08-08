@@ -5,12 +5,97 @@
 	
 	<link href="https://example.com/11ty-starter/feed/en.feed.xml" rel="self"/>
 	<link href="https://example.com"/>
-	<updated>2022-01-05T00:00:00Z</updated>
+	<updated>2022-08-08T00:00:00Z</updated>
 	<id>TODO</id>
 	<author>
 		<name>Hackerspace PESUECC</name>
 		<email>hackerspace.ecc@pes.edu</email>
 	</author>
+	
+	<entry>
+		<title>The 2022 Manifesto</title>
+		<link href="https://example.com/11ty-starter/posts/en/manifesto-2022/"/>
+		<updated>2022-08-08T00:00:00Z</updated>
+		<id>https://example.com/11ty-starter/posts/en/manifesto-2022/</id>
+		<content type="html">&lt;h1 id=&quot;hackerspace-manifesto-2022&quot; tabindex=&quot;-1&quot;&gt;Hackerspace manifesto 2022 &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/manifesto-2022/#hackerspace-manifesto-2022&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+  &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+
+
+&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Hi there! I’m Anirudh. I’m the core team lead of Hackerspace PESUECC.&lt;/p&gt;
+&lt;p&gt;It’s said that writing is far more preferable compared to all other forms of expression, as good writing requires clear thinking. It’s in this spirit that this blog post is ending up here, on the Hackerspace Website, and not on the usual channels of communication.&lt;/p&gt;
+&lt;p&gt;I see this post having two main reasons to exist - firstly, to highlight how we’ve grown not just as a student-run development club but also as a community. Secondly, and perhaps, most importantly, It’s an attempt to establish the shared vision that I desparately hope will drive the further growth and development of this community.&lt;/p&gt;
+&lt;p&gt;When Hackerspace PESUECC started off as a whatsapp group back in April of 2021, the vision was a singular one - Establish HackerSpace as a club that functions at the same level in both campuses.&lt;/p&gt;
+&lt;p&gt;Now, When I look at where we are today - having gone from a whatsapp group of five people and nothing else, to a thriving community of thirty-six student developers, designers, marketers, and operators, who are, and have been, the backbone of our three events, multiple projects, and our open-source community - I can’t help but feel a deep sense of pride.&lt;/p&gt;
+&lt;p&gt;We have come far, and there is, without a doubt, much to be appreciated.&lt;/p&gt;
+&lt;p&gt;At this juncture, I’m reminded of  Robert Frost’s “Stopping by Woods on a Snowy Evening”.&lt;/p&gt;
+&lt;p&gt;In the Poem so mentioned, Frost undertakes a wintertime journey through a lush, beautiful countryside, and happens to encounter some woody, forest-like land. Snow cascading down around him, he notices the inherent beauty in the silence, and stops to soak in this oasis in time.&lt;/p&gt;
+&lt;p&gt;His horse, confused, makes a sound that snaps Frost out of his reverie. He realizes he must move on; for while the beautiful woods may well be a worthwhile halt, it isn’t his destination. Frost puts it best -&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The woods are lovely, dark and deep.&lt;br /&gt;
+But I have promises to keep,&lt;br /&gt;
+And miles to go before I sleep,&lt;br /&gt;
+And miles to go before I sleep.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This leads to the question we, as members of HackerSpace PESUECC, need to ask ourselves - Is this really our destination?&lt;/p&gt;
+&lt;p&gt;Throughout my time as the core team lead, I’ve had the wonderful privilege of being a part of communities such as PES Open Source (now UniFOSS) and FOSS United.&lt;/p&gt;
+&lt;p&gt;In these communities, I understood that these two principles lie at the core of every functioning community.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;There exists a cause that brings like-minded folks together, and&lt;/li&gt;
+&lt;li&gt;There exists a framework for them to communicate, discuss, and collaborate, to work towards that cause.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The way I see it, there’s a dire need for every student-run community to aggressively focus on two principal tenets.&lt;/p&gt;
+&lt;p&gt;Firstly, We must ensure that we keep the spirit of building alive. It’s what has driven change and innovation since time immemorial, and it’s critical to not only encourage, but in fact, celebrate the act of creation and invention.&lt;/p&gt;
+&lt;p&gt;Irrespective of which hat you choose to wear - be it that of an engineer, a designer, an operator, a marketer, or a mentor, The act of building and creating in a tight feedback loop is foundational to the progress of one’s skill and learning.&lt;/p&gt;
+&lt;p&gt;Secondly, We must ensure that the spirit of Free and Open-Source Software (FOSS) isn’t just maintained, but rather, is actively evangelized.&lt;/p&gt;
+&lt;p&gt;FOSS Runs the world, and this isn’t an exaggeration by any means. These programs and libraries are the reason that Computers, Computer Science and Software Engineering is inexpensive and accessible to common people like you and me.&lt;/p&gt;
+&lt;p&gt;As students, the largest beneficiaries of the FOSS Ecosystem, it’s our responsibility to ensure that we carry on the tradition of free and open sharing of knowledge and software.&lt;/p&gt;
+&lt;p&gt;At the core of both these principles lie two extremely important factors - Community, and Knowledge Sharing.&lt;/p&gt;
+&lt;p&gt;Builders and Creators cannot be the sole judges of their work - A feedback mechanism is necessary to help them become better. Knowledge must be shared for those listening to understand what’s happening, and those building to know what they can do better.&lt;/p&gt;
+&lt;p&gt;Furthermore, FOSS, by its nature, depends on community. Knowledge-sharing is built into the concept, for one can only learn more when their work is used in different ways by the community that exists.&lt;/p&gt;
+&lt;p&gt;Keeping these concepts, ideas, and principles in mind, I intend to ensure that HackerSpace PESUECC establishes a legacy of maintaining and growing the student FOSS Community, and of providing builders and creators a space to build and have their work bettered by feedback.&lt;/p&gt;
+&lt;p&gt;We intend to launch two major initiatives this year.&lt;/p&gt;
+&lt;h2 id=&quot;tilde&quot; tabindex=&quot;-1&quot;&gt;Tilde &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/manifesto-2022/#tilde&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+  &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+
+
+&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;To ensure that builders and creators have a like-minded community of other builders and creators to help them become better, we intend to launch Tilde, a project development team initiative.&lt;/p&gt;
+&lt;p&gt;Students can volunteer to start projects or take over existing projects, working on them in two-week cycles in groups of four or five, driving them toward completion. We won’t impose any limit on what the projects are, so long as there’s a learning outcome from building it.&lt;/p&gt;
+&lt;p&gt;Teams meet at the end of the two weeks to discuss progress, take feedback, and if necessary, re-evaluate the direction chosen. Builders and Creators who volunteer will be provided with a profile page to show off their work.&lt;/p&gt;
+&lt;h2 id=&quot;homebrew&quot; tabindex=&quot;-1&quot;&gt;Homebrew &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/manifesto-2022/#homebrew&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+  &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+
+
+&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;To carry on the tradition of Free and Open-Source Software communities, Homebrew is the FOSS wing of HackerSpace PESUECC. Homebrew will conduct regular talks and workshops to spread the message of FOSS, share knowledge about new tools, and at times, explore new projects.&lt;/p&gt;
+&lt;p&gt;Homebrew will also meet once a week to show off and discuss projects that members of the community have been working that use FOSS Technologies. These meetings will be open, and anyone can attend - even those outside the community. These meetings can also be used to discuss new and interesting FOSS projects.&lt;/p&gt;
+&lt;p&gt;With this, we intend to build a strong open-source community here, and carry on the legacy of those communities that came before us.&lt;/p&gt;
+&lt;h2 id=&quot;closing-note&quot; tabindex=&quot;-1&quot;&gt;Closing Note &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/manifesto-2022/#closing-note&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+  &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+
+
+&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;In conclusion, I believe the year ahead can be one of immense challenges - starting communities from scratch is no joke, and it’s foolish to believe it’ll be easy - but we’re doing it because of the long-term gains, and not the short-term ones.&lt;/p&gt;
+&lt;p&gt;If you’re someone who isn’t a part of HackerSpace PESUECC, but you resonate with the goals and purposes of this message, please reach out.&lt;/p&gt;
+&lt;p&gt;I look forward to seeing all of you joining us this year. Thank you for taking the time to read this.&lt;/p&gt;
+&lt;p&gt;Anirudh Rowjee&lt;br /&gt;
+Core Team Lead, HackerSpace PESUECC&lt;/p&gt;
+&lt;p&gt;Monday 08 August 2022&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>This is my fifth post.</title>

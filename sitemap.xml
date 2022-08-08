@@ -32,67 +32,77 @@
   </url>
   
   <url>
+    <loc>/11ty-starter/posts/en/manifesto-2022/</loc>
+    <lastmod>2022-08-08</lastmod>
+  </url>
+  
+  <url>
     <loc>/11ty-starter/about/</loc>
-    <lastmod>2022-04-15</lastmod>
+    <lastmod>2022-08-08</lastmod>
   </url>
   
   <url>
     <loc>/11ty-starter/posts/</loc>
-    <lastmod>2022-04-15</lastmod>
+    <lastmod>2022-08-08</lastmod>
   </url>
   
   <url>
     <loc>/11ty-starter/events/</loc>
-    <lastmod>2022-04-15</lastmod>
+    <lastmod>2022-08-08</lastmod>
   </url>
   
   <url>
     <loc>/11ty-starter/</loc>
-    <lastmod>2022-04-15</lastmod>
+    <lastmod>2022-08-08</lastmod>
   </url>
   
   <url>
     <loc>/11ty-starter/tags/</loc>
-    <lastmod>2022-04-15</lastmod>
+    <lastmod>2022-08-08</lastmod>
   </url>
   
   <url>
     <loc>/11ty-starter/tags/events/</loc>
-    <lastmod>2022-04-15</lastmod>
+    <lastmod>2022-08-08</lastmod>
   </url>
   
   <url>
     <loc>/11ty-starter/tags/foss/</loc>
-    <lastmod>2022-04-15</lastmod>
+    <lastmod>2022-08-08</lastmod>
   </url>
   
   <url>
     <loc>/11ty-starter/tags/linux/</loc>
-    <lastmod>2022-04-15</lastmod>
+    <lastmod>2022-08-08</lastmod>
   </url>
   
   <url>
     <loc>/11ty-starter/tags/homebrew/</loc>
-    <lastmod>2022-04-15</lastmod>
+    <lastmod>2022-08-08</lastmod>
   </url>
   
   <url>
     <loc>/11ty-starter/tags/last-one/</loc>
-    <lastmod>2022-04-15</lastmod>
+    <lastmod>2022-08-08</lastmod>
   </url>
   
   <url>
     <loc>/11ty-starter/tags/style/</loc>
-    <lastmod>2022-04-15</lastmod>
+    <lastmod>2022-08-08</lastmod>
   </url>
   
   <url>
     <loc>/11ty-starter/tags/another-one/</loc>
-    <lastmod>2022-04-15</lastmod>
+    <lastmod>2022-08-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>/11ty-starter/tags/tilde/</loc>
+    <lastmod>2022-08-08</lastmod>
   </url>
   
   <url>
     <loc>/11ty-starter/tags/tag/</loc>
-    <lastmod>2022-04-15</lastmod>
+    <lastmod>2022-08-08</lastmod>
   </url>
 </urlset>
