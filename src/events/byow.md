@@ -7,7 +7,7 @@ layout: layouts/event.njk
 ---
 
 <section class="p-index_links_link">
-    <a href="https://tiy1l0l7c8l.typeform.com/to/ftfPjQbO" class="c-gradient-link"> 👉 Register Now! </a>
+    <a href="https://forms.gle/iPs8d3agf5i9H1LEA" class="c-gradient-link"> 👉 Register Now! </a>
 </section>
 
 ![](/static/images/byow/byow_poster_v1.png)
@@ -20,7 +20,7 @@ Date: 16th September, 2022
 Venue: Seminar Hall
 
 Why should you join it?
-👉 Beginner friendly 
+👉 Beginner friendly
 👉 Covers a wide range of topics throughout the workshop, including Eleventy, HTML+CSS, and Netlify
 👉 Create your own website by the end of it!
 👉 Don’t miss the chance to flex the awesome technical skills you'll acquire!
