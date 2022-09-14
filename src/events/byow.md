@@ -10,7 +10,7 @@ layout: layouts/event.njk
     <a href="https://forms.gle/iPs8d3agf5i9H1LEA" class="c-gradient-link"> 👉 Register Now! </a>
 </section>
 
-![](/static/images/byow/byow_poster_v1.png)
+![](/static/images/byow/byow_poster_v5.png)
 
 Do you want to build a website for yourself?
 
