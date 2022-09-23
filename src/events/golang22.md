@@ -10,6 +10,8 @@ layout: layouts/event.njk
     <a href="https://forms.gle/ztVkaGFWnZd42qby8" class="c-gradient-link"> 👉 Register Now! </a>
 </section>
 
+[registration form](https://forms.gle/ztVkaGFWnZd42qby8)
+
 ![](/static/images/golang22/golang22_poster.png)
 
 Are you going to GO???
