@@ -12,29 +12,30 @@ layout: layouts/event.njk
 
 ![](/static/images/byow/byow_poster_v5.png)
 
-Greetings from hackerspace PESU ECC!✨✨
+Are you going to GO???
+Greetings from hackerspace PESU ECC! ✨✨
 
-We are back with yet another exciting workshop!
-Our next workshop is on Golang! A language whose development is supported by google, and is syntactically similar to C.
-Why should you consider learning Go?
+You guessed it right! We are back with an exciting workshop, this time on Golang, a language whose development is supported by Google and is syntactically similar to C.
 
-👉 it is the fastest growing language in terms of popularity.
-👉 Google uses Go A LOT! So, in case you’re eyeing jobs there…
-👉 Amazing Concurrency! Its brilliant! Don’t take our word for it, see for yourselves.
-👉 Go is a great place to start finally learning to code!
+Date: 7th October
+Time: 3:30PM-5:30PM
+Venue: Seminar hall
 
-What more are you looking for?
-The best part about our workshop:
-👉Beginner friendly.
-👉No entry fee!
-👉 Extensive mentor support.
-👉Huge head-start compared to your peers and classmates (Hush)
+Why learn Go?🤔
 
-Concepts you will know after our workshop:
-👉Variables and constants in Go.
-👉 Data types, pointers, loops and arrays.
-👉 The concept of Slices.
-👉 Organising code using Go packages.
-👉 Scope rules in Go.
-👉 Concurrency.
-👉 Usage of extremely easy networks modules.
+✅ Golang is the fastest growing language in terms of popularity
+✅ Go is the language of choice for building enterprise-grade backend services, used by companies such as Google, Visa, Uber, Twitch, DropBox, and Soundcloud
+✅ Google uses Go A LOT! So, in case you’re eyeing the jobs there…👀
+✅ Amazing concurrency, It is just brilliant! Don’t take our word for it, see for yourselves and register😌
+✅ Go is a great place to finally start learning coding
+
+Need more reasons?
+Other than the fact that it's beginner friendly and has NO entry fee and you'll be provided with extensive mentor support.
+
+In this workshop, we'll be walking through the basics of Golang and its concurrency features. This will enable you to start writing your own programs by the end of this workshop!
+
+This is your chance to get a huge head-start over your peers and classmates 🤫
+
+Get, set, go GOLANG😆
+Register here -
+https://hsp-ec.xyz/events/golang22
