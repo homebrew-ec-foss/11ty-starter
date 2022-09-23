@@ -7,13 +7,13 @@ layout: layouts/event.njk
 ---
 
 <section class="p-index_links_link">
-    <a href="https://forms.gle/iPs8d3agf5i9H1LEA" class="c-gradient-link"> 👉 Register Now! </a>
+    <a href="https://forms.gle/ztVkaGFWnZd42qby8" class="c-gradient-link"> 👉 Register Now! </a>
 </section>
 
-![](/static/images/byow/byow_poster_v5.png)
+![](/static/images/golang22/golang22_poster.png)
 
 Are you going to GO???
-Greetings from hackerspace PESU ECC! ✨✨
+Greetings from HackerSpace PESU ECC! ✨✨
 
 You guessed it right! We are back with an exciting workshop, this time on Golang, a language whose development is supported by Google and is syntactically similar to C.
 
