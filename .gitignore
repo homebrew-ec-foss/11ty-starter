@@ -2,7 +2,7 @@ _site/
 _cache/
 node_modules/
 _data/css.json
-
+/yarn.lock
 *.log
 csshash
 _data/csshash.json
