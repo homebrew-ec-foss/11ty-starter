@@ -47,72 +47,87 @@
   </url>
   
   <url>
+    <loc>/11ty-starter/events/botcamp/</loc>
+    <lastmod>2023-01-24</lastmod>
+  </url>
+  
+  <url>
     <loc>/11ty-starter/about/</loc>
-    <lastmod>2022-09-23</lastmod>
+    <lastmod>2023-03-05</lastmod>
   </url>
   
   <url>
     <loc>/11ty-starter/posts/</loc>
-    <lastmod>2022-09-23</lastmod>
+    <lastmod>2023-03-05</lastmod>
   </url>
   
   <url>
     <loc>/11ty-starter/events/</loc>
-    <lastmod>2022-09-23</lastmod>
+    <lastmod>2023-03-05</lastmod>
   </url>
   
   <url>
     <loc>/11ty-starter/</loc>
-    <lastmod>2022-09-23</lastmod>
+    <lastmod>2023-03-05</lastmod>
   </url>
   
   <url>
     <loc>/11ty-starter/tags-1/</loc>
-    <lastmod>2022-09-23</lastmod>
+    <lastmod>2023-03-05</lastmod>
   </url>
   
   <url>
     <loc>/11ty-starter/tags/events/</loc>
-    <lastmod>2022-09-23</lastmod>
+    <lastmod>2023-03-05</lastmod>
   </url>
   
   <url>
-    <loc>/11ty-starter/tags/foss/</loc>
-    <lastmod>2022-09-23</lastmod>
+    <loc>/11ty-starter/tags/bot/</loc>
+    <lastmod>2023-03-05</lastmod>
   </url>
   
   <url>
-    <loc>/11ty-starter/tags/linux/</loc>
-    <lastmod>2022-09-23</lastmod>
+    <loc>/11ty-starter/tags/telegram/</loc>
+    <lastmod>2023-03-05</lastmod>
   </url>
   
   <url>
     <loc>/11ty-starter/tags/homebrew/</loc>
-    <lastmod>2022-09-23</lastmod>
+    <lastmod>2023-03-05</lastmod>
+  </url>
+  
+  <url>
+    <loc>/11ty-starter/tags/foss/</loc>
+    <lastmod>2023-03-05</lastmod>
+  </url>
+  
+  <url>
+    <loc>/11ty-starter/tags/linux/</loc>
+    <lastmod>2023-03-05</lastmod>
   </url>
   
   <url>
     <loc>/11ty-starter/tags/last-one/</loc>
-    <lastmod>2022-09-23</lastmod>
+    <lastmod>2023-03-05</lastmod>
   </url>
   
   <url>
     <loc>/11ty-starter/tags/style/</loc>
-    <lastmod>2022-09-23</lastmod>
+    <lastmod>2023-03-05</lastmod>
   </url>
   
   <url>
     <loc>/11ty-starter/tags/another-one/</loc>
-    <lastmod>2022-09-23</lastmod>
+    <lastmod>2023-03-05</lastmod>
   </url>
   
   <url>
     <loc>/11ty-starter/tags/tilde/</loc>
-    <lastmod>2022-09-23</lastmod>
+    <lastmod>2023-03-05</lastmod>
   </url>
   
   <url>
     <loc>/11ty-starter/tags/tag/</loc>
-    <lastmod>2022-09-23</lastmod>
+    <lastmod>2023-03-05</lastmod>
   </url>
 </urlset>
