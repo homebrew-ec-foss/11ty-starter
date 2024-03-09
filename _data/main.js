@@ -23,7 +23,7 @@ module.exports = {
       },
       {
         "text": 'Instagram',
-        "link": 'https://www.instagram.com/peshackerspace.ecc/',
+        "link": 'https://www.instagram.com/hsp.pesuecc/',
       },
       {
         "text": 'Youtube',
