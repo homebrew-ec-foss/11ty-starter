@@ -107,11 +107,6 @@
   </url>
   
   <url>
-    <loc>/11ty-starter/tags/last-one/</loc>
-    <lastmod>2024-03-10</lastmod>
-  </url>
-  
-  <url>
     <loc>/11ty-starter/tags/style/</loc>
     <lastmod>2024-03-10</lastmod>
   </url>
@@ -128,6 +123,11 @@
   
   <url>
     <loc>/11ty-starter/tags/tag/</loc>
+    <lastmod>2024-03-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/11ty-starter/tags/last-one/</loc>
     <lastmod>2024-03-10</lastmod>
   </url>
 </urlset>
