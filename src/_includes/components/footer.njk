@@ -17,10 +17,10 @@
                 href="{{ metadata[locale].source.link }}"
             >
                 {% set label = metadata[locale].source.label %}
-                {% if label == 'github' %}
-                    {% include "icons/brand-github.svg" %}
-                {% elif label == 'gitlab' %}
+                {% if label == 'gitlab' %}
                     {% include "icons/brand-gitlab.svg" %}
+                {% else %}
+                    {% include "icons/brand-github.svg" %}
                 {% endif %}
             </a>
         </div>
